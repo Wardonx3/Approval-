@@ -1,0 +1,11 @@
+name": "mera-project",
+"version": "1.0.0",
+"description": "Hello Gyaz im Faizu i Create this apk for only you send me approval Key and enjoy <3",
+"main": "server.js",
+"scripts": {
+"start": "node server.js"
+},
+"dependencies": {
+"express": "^4.17.1"
+}
+}
