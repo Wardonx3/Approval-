@@ -1,6 +1,7 @@
-name": "mera-project",
+{
+"name": "mera-project",
 "version": "1.0.0",
-"description": "Hello Gyaz im Faizu i Create this apk for only you send me approval Key and enjoy <3",
+"description": "Mera project ka description",
 "main": "server.js",
 "scripts": {
 "start": "node server.js"
@@ -9,3 +10,4 @@ name": "mera-project",
 "express": "^4.17.1"
 }
 }
+
